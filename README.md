@@ -59,4 +59,6 @@ Then install the requirements via
     -------------------------------------------------------------    
     ```
 
+#### Bug Reporting
 
+Please contact us at bugbounty@neonexchange.org if you find something you believe we should know about.
